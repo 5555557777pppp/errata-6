@@ -57,4 +57,5 @@ p.255 上から8行目
 「‖f(A−B)‖{(k)} ≤ ‖f(|A−B|)‖{(k)} がいえる」→
 「‖f(A) − f(B)‖_{(k)} ≤ ‖f(|A−B|)‖{(k)} がいえる」
 	p.270 補題7.15 の証明　6行目　
-dim ker A* = ∞ の場合の式 0 = ind A^{[-1]} + ind(A+B) = −ind A + ind(A+B) = −∞ は
+0 = ind A^{[-1]} + ind(A+B) = −ind A + ind(A+B) = −∞ →
+0 = ind A^{[-1]} + ind(A+B) = −ind A + ind(A+B) =  ∞ 
