@@ -216,6 +216,12 @@ p.371 演習8.7
 「f = p/q (p,q は規約な多項式)」
 p.371 演習8.7(2) 4行目
 q_(z) の係数 \overline{b_{n−k}} → \overline{b_{m−k}} 
+p.380 下から6行目
+「よって f∈Y* で」→
+「よって f∈Z* で」
+p.394 命題A.19の証明、7行目
+「g_n = max{f₁,…,f_n} とおくと、f_n ↗ 1_O だから」→
+「g_n = max{f₁,…,f_n} とおくと、g_n ↗ 1_O だから」
 p.410
 [3]N. I. Achiever and I. M. Glazman→
 [3]N. I. Akhiezer and I. M. Glazman
