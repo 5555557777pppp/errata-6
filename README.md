@@ -178,3 +178,15 @@ p.360 (定理8.52(2))
 「ℂ∖f(T)を連結成分に分割してℂ∖f(T)=」
 「ℂ∖φ(T)を連結成分に分割してℂ∖φ(T)=」
 
+p.410
+[3]N. I. Achiever and I. M. Glazman→
+[3]N. I. Akhiezer and I. M. Glazman
+
+[4]Duke Math. J. bf 148 (2009), 373–403.→
+[4]Duke Math. J. 148 (2009), 373–403.
+(bfを削除)
+
+[81] T. Furuta , Proc. Math. Soc. 101 (1987)
+[81] T. Furuta , ⁠Proc. Amer. Math. Soc.⁠ 101 (1987)
+(ここだけ⁠Amer. が抜け)
+
