@@ -216,16 +216,12 @@ p.371 演習8.7
 「f = p/q (p,q は規約な多項式)」
 p.371 演習8.7(2) 4行目
 q_(z) の係数 \overline{b_{n−k}} → \overline{b_{m−k}} 
-
-
 p.410
 [3]N. I. Achiever and I. M. Glazman→
 [3]N. I. Akhiezer and I. M. Glazman
-
 [4]Duke Math. J. bf 148 (2009), 373–403.→
 [4]Duke Math. J. 148 (2009), 373–403.
 (bfを削除)
-
 [81] T. Furuta , Proc. Math. Soc. 101 (1987)
 [81] T. Furuta , ⁠Proc. Amer. Math. Soc.⁠ 101 (1987)
 (ここだけ⁠Amer. が抜け)
